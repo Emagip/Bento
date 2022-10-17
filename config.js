@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Emagip music',
+					link: 'https://open.spotify.com/playlist/2gwqqIlb1w1Fi4nWJA8oLv?si=d837c8d6a0a849b4',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: "L'heure du crime",
+					link: 'https://open.spotify.com/show/3pYH5Kxw9IiznsPz0WoIn5?si=f8e55e1b92534b51',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: "C'est encore nous",
+					link: 'https://open.spotify.com/show/2jTIwTj4RARPHLVAkZnZ0Y?si=dbb7f2fbe55648f3',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Death Stranding',
+					link: 'https://open.spotify.com/album/1H5k5QgsFjnMPzlXfWq8QH?si=7fcd4d4547714961',
 				},
 			],
 		},
